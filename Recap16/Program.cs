@@ -25,7 +25,7 @@ namespace Recap16
             Console.WriteLine(age);
 
 
-            int month = 5;
+            int month = 7;
             int num2 = 10;
 
             bool myVariable = month != num2 || num2 % 2 == 0;
