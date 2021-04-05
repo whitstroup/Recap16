@@ -6,7 +6,34 @@ namespace Recap16
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double age = 15;
+            double day = 1;
+            double week = 7;
+
+            bool sleepsWellAtNight = true;
+
+
+            string greeting = "Hello World!";
+
+            int[] numbers = new int[5];
+
+            
+            age++;
+
+            ++age;
+
+            Console.WriteLine(age);
+
+
+            int month = 5;
+            int num2 = 10;
+
+            bool myVariable = month != num2 || num2 % 2 == 0;
+
+
+            string summerGreeting = month > 6 && month < 9 ? "It is summer" : "It is not summer";
+
+            Console.WriteLine(summerGreeting);
         }
     }
 }

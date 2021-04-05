@@ -1,0 +1,15 @@
+/Users/whitstroup/repos/Recap16/Recap16/bin/Debug/net5.0/Recap16.deps.json
+/Users/whitstroup/repos/Recap16/Recap16/bin/Debug/net5.0/Recap16.runtimeconfig.json
+/Users/whitstroup/repos/Recap16/Recap16/bin/Debug/net5.0/Recap16.runtimeconfig.dev.json
+/Users/whitstroup/repos/Recap16/Recap16/bin/Debug/net5.0/Recap16.dll
+/Users/whitstroup/repos/Recap16/Recap16/bin/Debug/net5.0/ref/Recap16.dll
+/Users/whitstroup/repos/Recap16/Recap16/bin/Debug/net5.0/Recap16.pdb
+/Users/whitstroup/repos/Recap16/Recap16/obj/Debug/net5.0/Recap16.csprojAssemblyReference.cache
+/Users/whitstroup/repos/Recap16/Recap16/obj/Debug/net5.0/Recap16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whitstroup/repos/Recap16/Recap16/obj/Debug/net5.0/Recap16.AssemblyInfoInputs.cache
+/Users/whitstroup/repos/Recap16/Recap16/obj/Debug/net5.0/Recap16.AssemblyInfo.cs
+/Users/whitstroup/repos/Recap16/Recap16/obj/Debug/net5.0/Recap16.csproj.CoreCompileInputs.cache
+/Users/whitstroup/repos/Recap16/Recap16/obj/Debug/net5.0/Recap16.dll
+/Users/whitstroup/repos/Recap16/Recap16/obj/Debug/net5.0/ref/Recap16.dll
+/Users/whitstroup/repos/Recap16/Recap16/obj/Debug/net5.0/Recap16.pdb
+/Users/whitstroup/repos/Recap16/Recap16/obj/Debug/net5.0/Recap16.genruntimeconfig.cache
