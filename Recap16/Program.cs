@@ -6,7 +6,7 @@ namespace Recap16
     {
         static void Main(string[] args)
         {
-            double age = 15;
+            double age = 21;
             double day = 1;
             double week = 7;
 
