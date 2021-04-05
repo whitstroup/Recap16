@@ -8,12 +8,12 @@ namespace Recap16
         {
             double age = 21;
             double day = 1;
-            double week = 7;
+            double week = 6;
 
             bool sleepsWellAtNight = true;
 
 
-            string greeting = "Hello World!";
+            string greeting = "Hello Mars!";
 
             int[] numbers = new int[5];
 
@@ -28,7 +28,7 @@ namespace Recap16
             int month = 7;
             int num2 = 10;
 
-            bool myVariable = month != num2 || num2 % 2 == 0;
+            bool myVariable = month != num2 && num2 % 2 == 0;
 
 
             string summerGreeting = month > 6 && month < 9 ? "It is summer" : "It is not summer";
